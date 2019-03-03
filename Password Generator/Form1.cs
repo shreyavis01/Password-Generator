@@ -21,5 +21,10 @@ namespace Password_Generator
         {
 
         }
+
+        private void genPassBttn_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
